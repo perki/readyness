@@ -1,6 +1,6 @@
 {
     "name": "readyness"
-  , "version": "0.1"
+  , "version": "0.1.0"
   , "description": "know when your service is up and running"
   , "keywords": ["wait", "lock"]
   , "author": "Pierre-Mikael Legris <pm@perki.com>"

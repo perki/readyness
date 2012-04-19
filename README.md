@@ -3,7 +3,7 @@ readyness.js
 
 `know when your service is up and running`
 
-For Node.js
+###For Node.js
 
 **Readyness** will help you lock some calls and wait until your service is up and running.
 
@@ -14,6 +14,8 @@ I personnaly wrote it to be sure that everything was ready before doing any test
 Pierre-Mikael Legris (Perki)  
 License: "Do whatever you want v2.1"  
 Sponsor: SimpleData Sàrl : simpledata.ch  
+
+**Install it with** `npm install readyness`
 
 ## Exemples 
  **setup redis readyness (could be your database.js file)**
