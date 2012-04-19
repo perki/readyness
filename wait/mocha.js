@@ -3,8 +3,8 @@
  * to be required ahead of you tests
  */
 
-describe('readyness.js', function(){
+describe('WAIT readyness.js', function(){
   before(function(done) {
-    require('../../utils/readyness').doWhen(done);
+    require('readyness').doWhen(done);
   });
 });

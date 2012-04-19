@@ -5,7 +5,7 @@
   , "keywords": ["wait", "lock"]
   , "author": "Pierre-Mikael Legris <pm@perki.com>"
   , "repository": { "type": "git", "url": "git://github.com/perki/readyness.git" }
-  , "main": "./readyness"
+  , "main": "./lib/readyness"
   , "engines": { "node": ">= 0.4.x" }
   , "scripts": {
   }
