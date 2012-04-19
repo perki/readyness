@@ -1,0 +1,16 @@
+{
+    "name": "readyness"
+  , "version": "0.1"
+  , "description": "know when your service is up and running"
+  , "keywords": ["wait", "lock"]
+  , "author": "Pierre-Mikael Legris <pm@perki.com>"
+  , "repository": { "type": "git", "url": "git://github.com/perki/readyness.git" }
+  , "main": "./readyness"
+  , "engines": { "node": ">= 0.4.x" }
+  , "scripts": {
+  }
+  , "dependencies":{
+  }
+  , "devDependencies": {
+  }
+}
